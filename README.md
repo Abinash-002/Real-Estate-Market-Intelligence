@@ -65,6 +65,7 @@ BuyerSegmentationProject
 ## 👩‍💻 Developer
 
 **Abinash Bhue**
+
 BCA Final year
 
 ## ⭐ Conclusion
