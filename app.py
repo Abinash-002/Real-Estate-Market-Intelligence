@@ -7,7 +7,7 @@ st.set_page_config(
     layout="wide"
 )
 
-df = pd.read_csv("data/clustered_clients.csv")
+df = pd.read_csv("datasets/clustered_clients.csv")
 segment_names = {
     0: "Home Buyers",
     1: "Investment Buyers",
