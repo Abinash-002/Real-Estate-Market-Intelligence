@@ -3,7 +3,7 @@
 
 A Machine Learning and Data Analytics project that identifies hidden buyer segments in the real estate market using **K-Means Clustering**. The dashboard helps analyze customer demographics, investment behavior, financing preferences, and geographic trends to support data-driven decision-making.
 
-## 🚀 Live Demo
+## 🚀 Live Demo:- https://real-estate-market-intelligence-abinash-bhue.streamlit.app/
 
 **Streamlit App:**
 
