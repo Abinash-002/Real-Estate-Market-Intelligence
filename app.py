@@ -58,7 +58,7 @@ st.sidebar.info("""
 
 📊 Data Analytics & Machine Learning Project
 
-👩‍💻 Developed by Pooja Tarale
+👩‍💻 Developed by Abinash Bhue
 
 🎯 Goal:
 Identify buyer segments and investment behavior patterns.
