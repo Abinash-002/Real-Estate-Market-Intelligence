@@ -225,5 +225,5 @@ st.dataframe(df.head())
 st.markdown("---")
 
 st.caption(
-    "Built using Python, Streamlit, Plotly and K-Means Clustering | © Pooja Tarale"
+    "Built using Python, Streamlit, Plotly and K-Means Clustering | © Abinash Bhue & Kanha Sahu"
 )
